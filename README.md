@@ -1,1 +1,2 @@
-# COVID-19-measures
+# Government Measures Effects on COVID-19 Cases
+STAT946 Final Project
